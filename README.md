@@ -2,6 +2,10 @@
 ## 🔭 I’m currently working on Interactive Design.
 ## 🌱 I’m currently learning music reactive performance in Touchdesign; also learning Unity game programming.
 
+# 我曾經做過一些有意思的專案：
+⚡ 長榮大學聖誕點燈活動
+
+
 
 <!--
 **wangbb/wangbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![螢幕擷取畫面 2024-01-08 094642](https://github.com/user-attachments/assets/424ed9b0-b83c-474c-bced-69534a64e047)
