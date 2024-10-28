@@ -1,4 +1,7 @@
-## Hi there 👋
+# this is WangBB's Github~
+## 🔭 I’m currently working on Interactive Design.
+## 🌱 I’m currently learning music reactive performance in Touchdesign; also learning Unity game programming.
+
 
 <!--
 **wangbb/wangbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
